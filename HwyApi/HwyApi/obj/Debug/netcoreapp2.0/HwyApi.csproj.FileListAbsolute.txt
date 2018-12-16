@@ -1,0 +1,11 @@
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\bin\Debug\netcoreapp2.0\HwyApi.deps.json
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\bin\Debug\netcoreapp2.0\HwyApi.runtimeconfig.json
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\bin\Debug\netcoreapp2.0\HwyApi.runtimeconfig.dev.json
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\bin\Debug\netcoreapp2.0\HwyApi.dll
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\obj\Debug\netcoreapp2.0\HwyApi.csprojResolveAssemblyReference.cache
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\obj\Debug\netcoreapp2.0\HwyApi.csproj.CoreCompileInputs.cache
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\obj\Debug\netcoreapp2.0\HwyApi.AssemblyInfoInputs.cache
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\obj\Debug\netcoreapp2.0\HwyApi.AssemblyInfo.cs
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\bin\Debug\netcoreapp2.0\HwyApi.pdb
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\obj\Debug\netcoreapp2.0\HwyApi.dll
+c:\users\htet wai yan\Source\Repos\HwyApi\HwyApi\obj\Debug\netcoreapp2.0\HwyApi.pdb
