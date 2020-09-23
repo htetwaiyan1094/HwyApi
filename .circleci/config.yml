@@ -5,6 +5,7 @@
 
  jobs:
    build:
+    working_directory: ~/HwyApi/HwyApi
     executor:
       name: win/default
       shell: powershell.exe
@@ -14,6 +15,7 @@
           keys:
             - dotnet-packages-v1-{{ checksum "HwyApi/HwyApi/HwyApi.csproj" }}
       - run:
+          working_directory: ~/HwyApi/HwyApi
           name: "Install project dependencies"
           command: dotnet.exe restore
       - save_cache:
@@ -22,5 +24,6 @@
           key: dotnet-packages-v1-{{ checksum "HwyApi/HwyApi/HwyApi.csproj" }}
 
       - run:
+          working_directory: ~/HwyApi/HwyApi
           name: "Run Build step"
           command: dotnet.exe publish -c Release -r win10-x64
