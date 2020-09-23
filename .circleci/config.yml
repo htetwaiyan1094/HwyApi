@@ -10,7 +10,7 @@
       name: win/default
       shell: powershell.exe
     steps:
-      - checkout
+      - checkout:
           path: ~/HwyApi
       
       # Restore Cache
